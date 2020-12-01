@@ -7,4 +7,12 @@ Project Outline: Working with Pandas and SQL Databases (Movies Dataset)
 - Loading Data from SQLite Databases into DataFrames
 - Perform Simple SQL Queries (Select etc)
 - Join Queries 
-- Final Case Study
+
+
+Final case study completed
+Gather the data to answer the following questions:
+
+1) What are the most successful companies from total revenue?
+
+Method used:
+Join production companies and movies and load into Pandas and group/filter data
